@@ -1,0 +1,10 @@
+# Material fuente interno — NUNCA subir (correo, scrape, QA, originales)
+_insumos/
+
+# Artefactos de sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# CSS remoto de referencia (se usa poppins-local.css)
+assets/fonts/poppins.css
